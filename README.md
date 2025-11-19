@@ -1,5 +1,8 @@
 # Auto Click Element (Extensão para Microsoft Edge)
 
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/e0952c3e-373b-4076-8c2b-9bc80eca7530" />
+
+
 Este repositório contém uma **extensão de navegador para Microsoft Edge** que automatiza cliques em elementos específicos de páginas web, com foco na funcionalidade de convidar seguidores em grupos do Facebook.
 
 ## Conteúdo do Repositório
