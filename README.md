@@ -48,6 +48,9 @@ A extensão é projetada para injetar botões diretamente no diálogo "Convide s
     *   Ative o **"Modo de desenvolvedor"** (geralmente um switch no canto inferior esquerdo ou superior direito).
     *   Clique no botão **"Carregar descompactada"**.
     *   Navegue e **selecione a pasta `extension`** (localizada em `c:\Auto Click Element\extension` ou no diretório onde você clonou o repositório).
+      
+  
+    <img width="1365" height="737" alt="image" src="https://github.com/user-attachments/assets/a8f3071d-e3a8-4faa-9649-77af9821aa53" />
 
 3.  **Use a Extensão:**
     *   Vá para a página do grupo do Facebook onde você deseja convidar amigos (ex: `https://www.facebook.com/groups/Brasileirissimos.oficial`).
