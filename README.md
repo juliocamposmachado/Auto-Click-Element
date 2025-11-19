@@ -71,3 +71,16 @@ Se você deseja criar um arquivo `.crx` para distribuir a extensão:
 
 *   **Extensão não carrega/Erro de Ícone:** Verifique se os arquivos de ícone (`icon16.png`, `icon48.png`, `icon128.png`) estão presentes na pasta `extension/icons/`.
 *   **Cliques não funcionam:** O Facebook frequentemente altera sua interface. Pode ser necessário ajustar o `CHECKBOX_SELECTOR`, `UNCHECKED_POSITION`, `CHECKED_POSITION` ou o XPath do botão "Enviar convites" no `content.js` para corresponder às novas mudanças no HTML e CSS da página.
+
+🔄 Aviso Importante sobre o Carregamento da Extensão
+Em alguns casos, após instalar a extensão, ela pode não aparecer imediatamente no diálogo de convites do Facebook. Isso acontece porque o navegador precisa reconhecer e inicializar os scripts da extensão dentro da página.
+
+👉 Para resolver, basta recarregar a página algumas vezes (usando F5 ou o botão de atualizar do navegador).
+
+Na primeira recarga, o navegador começa a carregar os arquivos da extensão.
+
+Em recargas seguintes, o botão “Iniciar Cliques Inteligentes” deve aparecer corretamente dentro do diálogo de convites.
+
+Se ainda não aparecer, aguarde alguns segundos e tente novamente.
+
+Esse processo é normal e garante que a extensão seja carregada de forma completa e esteja pronta para uso.
