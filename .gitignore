@@ -1,0 +1,17 @@
+# Ignorar arquivos da extensão empacotada e chave privada
+*.crx
+*.pem
+
+# Ignorar WebDriver do Edge
+msedgedriver.exe
+
+# Ignorar ambiente virtual Python
+.venv/
+
+# Ignorar arquivos de cache e compilados do Python
+__pycache__/
+*.pyc
+
+# Outros arquivos comuns a ignorar
+.DS_Store
+.vscode/

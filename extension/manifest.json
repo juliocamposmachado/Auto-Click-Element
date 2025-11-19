@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Auto Clicker Facebook Group Invites",
+    "version": "1.0",
+    "description": "Automatically clicks checkboxes and the 'Enviar convites' button on Facebook group invite pages.",
+    "permissions": ["scripting"],
+    "host_permissions": ["https://www.facebook.com/*"],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://www.facebook.com/groups/*"],
+            "js": ["content.js"]
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": ["icons/*"],
+            "matches": ["https://www.facebook.com/*"]
+        }
+    ]
+}
