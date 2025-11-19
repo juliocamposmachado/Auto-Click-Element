@@ -2,8 +2,29 @@
 
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/e0952c3e-373b-4076-8c2b-9bc80eca7530" />
 
+🌟 Projeto SÓ 1 – Rádio Tatuapé FM
+A força que nasce de cada pessoa
 
-Este repositório contém uma **extensão de navegador para Microsoft Edge** que automatiza cliques em elementos específicos de páginas web, com foco na funcionalidade de convidar seguidores em grupos do Facebook.
+A Rádio Tatuapé FM, em parceria com a Like Look Solutions, desenvolveu uma ferramenta inovadora para acelerar a divulgação do Projeto SÓ 1. Essa extensão para o navegador Microsoft Edge foi criada para facilitar o compartilhamento de convites e informações nos grupos do Facebook, permitindo que mais pessoas conheçam e participem dessa iniciativa transformadora.
+
+🚀 Por que essa ferramenta é importante?
+O Projeto SÓ 1 busca apoiar famílias em situação de vulnerabilidade, com foco especial em crianças e na qualificação profissional de adultos.
+
+A extensão automatiza cliques em convites de seguidores nos grupos, tornando o processo mais rápido e eficiente.
+
+Com isso, a rede de solidariedade se expande e as mensagens do projeto chegam a mais pessoas em menos tempo.
+
+📥 Como baixar a extensão
+Você pode acessar o repositório oficial e instalar a ferramenta diretamente no seu navegador: 👉 Baixar extensão Auto-Click-Element no GitHub - https://github.com/juliocamposmachado/Auto-Click-Element
+
+💡 Um gesto que multiplica
+Assim como o Projeto SÓ 1 acredita que um gesto isolado pode transformar vidas, essa ferramenta é um passo tecnológico que fortalece a união e amplia o impacto social. Cada clique automatizado representa mais pessoas convidadas, mais vozes engajadas e mais esperança compartilhada.
+
+📌 Grupo oficial no Facebook (Divulgação): 👉 https://www.facebook.com/groups/Brasileirissimos.oficial
+
+📌 Grupo oficial no WhatsApp (Recepção): 👉 https://chat.whatsapp.com/DdPNSUmjrThFeJnWvfCyNg?mode=hqrt1
+
+✨ Projeto SÓ 1 – Rádio Tatuapé FM Quando um se move, muitos podem seguir.
 
 ## Conteúdo do Repositório
 
